@@ -4,7 +4,11 @@
 #
 #################################################################################
 
+<<<<<<< HEAD
 XBMC_VERSION = 15cee728b1134af67b681e434b6a8f7d07c5ae06
+=======
+XBMC_VERSION = 4b20706ed29721d3896a683289739d62013db2d1
+>>>>>>> upstream/master
 XBMC_SITE_METHOD = git
 XBMC_SITE = git://github.com/ryancpwalsh/xbmc.git
 XBMC_INSTALL_STAGING = YES
